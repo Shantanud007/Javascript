@@ -30,4 +30,4 @@ let objheros={
 const myFunction= function(){
     console.log("Hello");
     
-}
+} 
